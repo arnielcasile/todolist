@@ -7,6 +7,8 @@
 - `php artisan migrate `
 - `php artisan db:seed `
 - `php artisan serve `
+- API Port
+- `127.0.0.1:8000`
 <br/>
 -Credentials to be used.
 
