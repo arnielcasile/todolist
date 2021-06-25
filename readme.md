@@ -8,7 +8,7 @@
 - `php artisan db:seed `
 - `php artisan serve `
 <br/>
-- Credential to be used.
+-Credentials to be used.
 
 - email    : `admin@admin.com `
 - password : `password `
